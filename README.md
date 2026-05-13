@@ -72,9 +72,13 @@ sms-spam-classifier/
 
 ---
 
-## Screenshot
+## Demo
 
-*Demo screenshot — add after deployment*
+![SMS Spam Classifier — input interface](assets/demo-1.png)
+
+![Spam detection result](assets/demo-2.png)
+
+![Ham (not spam) detection result](assets/demo-3.png)
 
 ---
 
